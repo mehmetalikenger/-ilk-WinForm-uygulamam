@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9y7vwynfcH6i0PhVDoYnw1jbDnRw5gfb+bjfa+m3uIE/PeKBs2GC0A50oxmOS0lw/5ocmg4hY2nr11Mf7p8Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenge\\Downloads\\210601077odev1 (1)\\210601077Ödev1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\kenge\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\kenge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\kenge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
